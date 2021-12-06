@@ -6,7 +6,7 @@
 - [Description](#description)
 - [Tools Used](#tools-used)
 - [License](#license)
-- [Video](#video-of-how-it's-used)
+- [Screenshot](#screenshot)
 - [User Story](#user-story)
 - [Author](#author)
 
@@ -26,7 +26,9 @@ JavaScript and MongoDB
 
 This project uses a Apache-2.0 license.
 
-### Video Of How it's Used
+### Screenshot
+
+![Screenshot](screenshot.png)
 
 ## Author
 
