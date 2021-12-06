@@ -17,9 +17,10 @@ SO THAT my account balance is accurate when I am traveling
 
 ### Description
 
+This is a PWA that is used to track all of a users finances. It is an application that works offline as well.
 
 ### Tools Used
-
+JavaScript and MongoDB
 
 ### License
 
